@@ -1,5 +1,4 @@
-<center>
-  <div>
-    <p style="font-size: 50">Phoenix</p>
-  </div>
-</center>
+<div>
+    <p>Email: phoenixnet.phoenix@gmail.com</p>
+    <p></p>
+</div>
